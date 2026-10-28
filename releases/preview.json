@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "0.3.2",
+  "version": "0.3.3",
   "channel": "preview",
   "architecture": "arm64",
   "minimumMacOS": "27.0",
-  "sha256": "7c4fd15b8a32646963a4c6b1fa038eaf9efd676b660ea5cc38b6334a8e770ce8",
-  "bytes": 212254786,
-  "downloadURL": "https://github.com/gewenyuan123/constella-releases/releases/download/v0.3.2/Constella-0.3.2-AppleSilicon-macOS27.zip",
-  "releaseURL": "https://github.com/gewenyuan123/constella-releases/releases/tag/v0.3.2"
+  "sha256": "ab61ec51a2198de4695a26b7dcd4b832959d4a34b806e435abe2f215a85b6345",
+  "bytes": 212259846,
+  "downloadURL": "https://github.com/gewenyuan123/constella-releases/releases/download/v0.3.3/Constella-0.3.3-AppleSilicon-macOS27.zip",
+  "releaseURL": "https://github.com/gewenyuan123/constella-releases/releases/tag/v0.3.3"
 }
