@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "0.3.2",
+  "channel": "preview",
+  "architecture": "arm64",
+  "minimumMacOS": "27.0",
+  "sha256": "7c4fd15b8a32646963a4c6b1fa038eaf9efd676b660ea5cc38b6334a8e770ce8",
+  "bytes": 212254786,
+  "downloadURL": "https://github.com/gewenyuan123/constella-releases/releases/download/v0.3.2/Constella-0.3.2-AppleSilicon-macOS27.zip",
+  "releaseURL": "https://github.com/gewenyuan123/constella-releases/releases/tag/v0.3.2"
+}
