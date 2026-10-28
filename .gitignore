@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!PRIVACY.md
+!releases/
+!releases/preview.json
