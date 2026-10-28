@@ -6,7 +6,7 @@ Constella 是面向学生的本机信息整理工具，汇集已连接来源中�
 
 ## 下载
 
-- [Constella 0.3.2 Preview · Apple Silicon](https://github.com/gewenyuan123/constella-releases/releases/download/v0.3.2/Constella-0.3.2-AppleSilicon-macOS27.zip)
+- [Constella 0.3.3 Preview · Apple Silicon](https://github.com/gewenyuan123/constella-releases/releases/download/v0.3.3/Constella-0.3.3-AppleSilicon-macOS27.zip)
 - [所有版本与校验和](https://github.com/gewenyuan123/constella-releases/releases)
 
 当前支持 Apple 芯片，要求 macOS 27 或更新系统。这是预览测试版，未完成所有来源的跨设备验收。
